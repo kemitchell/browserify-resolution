@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "browserify": "13.1.0"
+  }
+}
